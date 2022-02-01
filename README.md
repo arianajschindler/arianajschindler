@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm **Ariana Schindler** and I'm a senior at Brown University studying Applied Mathematics and Data Science. <br/> Graduation date: **May 2022**.
+I'm **Ariana Schindler** and I'm a senior at Brown University studying **Applied Mathematics** and **Data Science**. Graduation date: **May 2022**.
 
 - 🔭 I’m currently working on completing my **APMA** degree at Brown University
 - 🌱 I’m currently learning how to build **regression models**
