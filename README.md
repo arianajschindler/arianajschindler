@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **Ariana Schindler** and I'm a senior at Brown University studying **Applied Mathematics** and **Data Science**. Graduation date: **May 2022**.
 
-- 🔭 I’m currently working on completing my **APMA** degree at Brown University
+- 🔭 I’m currently working on a regression analysis of **the housing market** and **COVID-19 cases**.
 - 🌱 I’m currently learning how to build **regression models**
 - 📫 How to reach me: arianajschindler@gmail.com
 - 😄 Pronouns: she/her
