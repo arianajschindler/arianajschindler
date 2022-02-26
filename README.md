@@ -14,3 +14,5 @@ I'm **Ariana Schindler** and I'm a senior at Brown University studying **Applied
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/ios/48/000000/tableau-software.png"/> </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jira.png"/>
+  </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> </a> </p>
