@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **Ariana Schindler** and I'm a Masters student at Brown University studying **Applied Mathematics** and **Data Science**. Graduation date: **May 2023**.
 
-- 🔭 I’m currently working on a **feature detection** deep learning project to classify pathology of bone marrow slides.
+- 🔭 I’m currently working on a **convolutional neural network** deep learning project to classify pathology of bone marrow slides.
 - 🌱 I’m currently learning how to implement deep learning neural networks from scratch.
 - 📫 How to reach me: ariana_schindler@brown.edu
 - 😄 Pronouns: she/her
